@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @MigzRuiz
 - 👀 I’m interested in learning cloud technologies
-- 🌱 I’m currently learning docker, kubernetes, React
-- 💞️ I’m looking to collaborate on a React Project
-- 📫 How to reach me miguelanthonyruiz@gmail.com
+- 🌱 I’m currently learning Microsoft 365
+- 📫 How to reach me miggy@duck.com
 
 <!---
 MigzRuiz/MigzRuiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
