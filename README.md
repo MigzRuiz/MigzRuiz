@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MigzRuiz
-- 👀 I’m interested in learning cloud technologies
+- 👀 I’m interested in learning cloud technologies and messing around with the Godot Engine
 - 🌱 I’m currently learning Microsoft 365
 - 📫 How to reach me miggy@duck.com
 
